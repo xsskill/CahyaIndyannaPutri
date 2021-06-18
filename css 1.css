@@ -1,0 +1,65 @@
+body {
+    background-color: palegoldenrod;
+}
+
+
+img {
+    height: 200px;
+    width: 1331px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: salmon;
+}
+
+
+li {
+    float: left ;
+}
+
+
+a{
+    display: block;
+    color: beige;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+
+#runningtext {
+    width: 100%;
+    height: 25px;
+    padding-top: 7px;
+    margin: 5px 0 5px 0;
+    background-color: chocolate;
+    color: lavender;
+    position: relative;
+}
+
+
+#wrap {
+    background: lightgoldenrodyellow;
+    width: 1331px;
+    height: 1400px;
+
+}
+
+#kiri {
+    width: 700px;
+    background: lightyellow;
+    float: left;
+   height: 1400px;
+   font-size: 25px;
+
+}
+
+
+h1 {
+    font-style: italic;
+}
